@@ -1,0 +1,3 @@
+-e git://github.com/romank0/pygatt.git@f0380e99ee1a0259520369fa9686d609ed5b0706#egg=pygatt
+-e git://github.com/romank0/pyb00st.git@f1c28f9f030aca9543348b70e4c85d8008a0ca93#egg=pyb00st
+
